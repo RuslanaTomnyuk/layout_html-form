@@ -1,1 +1,13 @@
 /* styles go here */
+.form-field:not(:last-child) {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.yourfavoritecolor {
+  background: #000;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
