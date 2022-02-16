@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,6BACE,aAAc,CACd,kBACF,CAEA,mBACE,eACF,CAEA,SACE,kBACF","file":"style.bc48eeb8.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.form-field:not(:last-child) {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.yourfavoritecolor {\n  background: #000;\n}\n\nfieldset {\n  margin-bottom: 20px;\n}\n"]}
